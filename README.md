@@ -20,3 +20,9 @@ $ gcc -std=c17 -D_POSIX_SOURCE -D_GNU_SOURCE -D_POSIX_C_SOURCE=199309L TimeTesti
 (any C standard version with the recent glibc version)
 
 $ ./TimeTesting
+
+>For the programs variant (once compiled), an example:
+
+$ ./TimeTesting ./a.out
+
+Be assure that the second argument is passed with the correct path
