@@ -30,7 +30,8 @@ or the total time of execution for multiple algorithms, functions or programs (u
   $ ./TimeTesting ./a.out
   ```
 PLEASE NOTE: Be assure that the second argument is passed with the correct path.
-
+</details>
+  
 ## Motivation
 
 I needed a simple program in C/C++ to test the time complexity of my functions and programs and
