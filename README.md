@@ -1,4 +1,4 @@
-# Algorithm/Functions/Programs time testing
+# Algorithms/Functions/Programs time testing
 
 How to check the total time of execution for single algorithm, function or program (useful for unit testing)
 or the total time of execution for multiple algorithms, functions or programs (useful for system testing)
